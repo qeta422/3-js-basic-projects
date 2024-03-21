@@ -36,7 +36,7 @@ main {
 .left {
   width: 52rem;
   display: flex;
-  display: column;
+  flex-direction: column;
   align-items: center;
 }
 
