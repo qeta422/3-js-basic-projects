@@ -11,6 +11,7 @@ This game is a great opportunity for the beginners to learn conditional cases an
 <br/>
 DEMO: https://guessmy-number-game.netlify.app/
 <br/>
+<br/>
 **The second project named "Modal windows" is exactly what the title says.**
 <br/>
 - There are three buttons
