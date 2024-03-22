@@ -4,7 +4,7 @@
 - There is no number in the input.
 - The value matches the number and is correct.
 - The value is wrong (either higher than the number or lower)
-<br/>
+
 The game determines your current score in game and displays high score after every record.
 <br/>
 This game is a great opportunity for the beginners to learn conditional cases and get a good grip of javascript DOM manipulations.
