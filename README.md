@@ -10,3 +10,14 @@ The game determines your current score in game and displays high score after eve
 This game is a great opportunity for the beginners to learn conditional cases and get a good grip of javascript DOM manipulations.
 <br/>
 DEMO: https://guessmy-number-game.netlify.app/
+<br/>
+**The second project named "Modal windows" is exactly what the title says.**
+<br/>
+- There are three buttons
+- If the user clicks each of them, the window will pop up and the content around it will become blurry
+- The window comes with a little x mark in order to close it (the user can also just click on the area around the window or the escape key to close it)
+
+An excellent project for basic javascript students.
+<br/>
+DEMO: https://modalwindowss.netlify.app/
+
