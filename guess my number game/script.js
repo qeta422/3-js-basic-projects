@@ -4,13 +4,6 @@ let secretNumber = Math.round(Math.random() * 20);
 let score = 20;
 let again = document.querySelector(".again");
 
-again.addEventListener("click", function () {
-  score = 20;
-  secretNumber = Math.round(Math.random() * 20);
-
-  document.querySelector(".message").textContent = "Start guessing...";
-});
-
 document.querySelector(".check").addEventListener("click", function () {
   const guess = Number(document.querySelector(".guess").value);
   console.log(guess, typeof guess);
@@ -47,4 +40,17 @@ document.querySelector(".check").addEventListener("click", function () {
       document.querySelector(".score").textContent = 0;
     }
   }
+});
+
+again.addEventListener("click", function () {
+  score = 20;
+  secretNumber = Math.round(Math.random() * 20);
+
+  document.querySelector(".message").textContent = "Start guessing...";
+  document.querySelector(".score").textContent = score;
+  document.querySelector(".number").textContent = "?";
+  document.querySelector(".guess").value = "";
+
+  document.querySelector("body").style.backgroundColor = "#222";
+  document.querySelector(".number").style.width = "15rem";
 });
