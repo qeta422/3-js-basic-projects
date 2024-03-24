@@ -21,4 +21,15 @@ DEMO: https://guessmy-number-game.netlify.app/
 An excellent project for basic javascript students.
 <br/>
 DEMO: https://modalwindowss.netlify.app/
+<br/>
+<br/>
+**The third project - "pig game" contains a little more complexed code than the other two.**
+<br/>
+- There are two players (each have their own turn)
+- They have to roll the dice and collect the current scores without getting the number 1 on the dice (if this occures, the player is switched)
+- The player needs to hold the current score at some point in order to add it to an actual score counter before they get 1 on the dice
+- The game naturally comes with a game reset button which turns every state into their default values in order to play the game again
 
+The first player reaching 100, wins the game!
+<br/>
+DEMO: https://modalwindowss.netlify.app/
