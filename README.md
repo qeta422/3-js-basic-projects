@@ -32,4 +32,4 @@ DEMO: https://modalwindowss.netlify.app/
 
 The first player reaching 100, wins the game!
 <br/>
-DEMO: https://modalwindowss.netlify.app/
+DEMO: https://piggame-diceroller.netlify.app/
